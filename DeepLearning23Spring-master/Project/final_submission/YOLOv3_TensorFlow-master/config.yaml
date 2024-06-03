@@ -1,8 +1,0 @@
-train: D:\FDU\Sophomore_semester2\Deep_learning\Project\final_submission\data\train
-val: D:\FDU\Sophomore_semester2\Deep_learning\Project\final_submisson\data\val
-nc: 5
-names: ["cola",
-        "kangshifu",
-        "yogurt",
-        "hongniu",
-        "yanqishui"]

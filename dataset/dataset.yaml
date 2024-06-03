@@ -1,5 +1,0 @@
-path: C:\files\DeepLearning\dataset\images
-train: train
-val: val
-nc: 4
-names: ["recyclable waste", "wet waste", "hazardous waste", "dry waste"]

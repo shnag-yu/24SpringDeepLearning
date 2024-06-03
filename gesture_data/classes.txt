@@ -1,0 +1,4 @@
+start
+confirm
+cancel
+quit
